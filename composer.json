@@ -1,5 +1,5 @@
 {
-  "name": "pixelpeter/laravel5-woocommerce-api-client",
+  "name": "Thoogui/laravel5-woocommerce-api-client",
   "description": "Laravel 5 wrapper for the Woocommerce REST API",
   "keywords": [
     "laravel",
@@ -12,13 +12,19 @@
     "shop",
     "cart"
   ],
-  "homepage": "https://github.com/pixelpeter/laravel5-woocommerce-api-client",
+  "homepage": "https://github.com/Thoogui/laravel5-woocommerce-api-client",
   "license": "MIT",
   "authors": [
     {
       "name": "Peter Haak",
       "email": "info@pixelpeter.de",
       "homepage": "https://pixelpeter.de/",
+      "role": "Developer"
+    },
+    {
+      "name": "Thoogui",
+      "email": "",
+      "homepage": "/",
       "role": "Developer"
     }
   ],
