@@ -38,8 +38,8 @@ class WoocommerceServiceProvider extends ServiceProvider
             __DIR__ . '/../config/woocommerce.php',
             'woocommerce'
         );
-
-        $config = $app['config']->get('woocommerce');
+        $config = Config::get('woocommerce');
+  //     $config = $app['config']->get('woocommerce');
 
         $app->singleton('woocommerce.client', function() use ($config) {
             return new Client(
