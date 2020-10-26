@@ -1,5 +1,5 @@
 {
-  "name": "Thoogui/laravel5-woocommerce-api-client",
+  "name": "thoogui/laravel5-woocommerce-api-client",
   "description": "Laravel 5 wrapper for the Woocommerce REST API",
   "keywords": [
     "laravel",
